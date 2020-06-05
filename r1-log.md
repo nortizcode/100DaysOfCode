@@ -1,0 +1,12 @@
+# #100DaysOfCode Log - Round 1 - [Nathan Ortiz]
+
+The log of my #100DaysOfCode challenge. Started on [June 04, Thursday, 2020].
+
+## Log
+
+
+### R1D1 
+Today I worked on my personal portfolio website for at least an hour and I got onto freecodecamp for another 
+hour to work on my JavaScript since that is my weak point.
+
+### R1D2
