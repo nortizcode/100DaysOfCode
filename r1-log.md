@@ -10,3 +10,7 @@ Today I worked on my personal portfolio website for at least an hour and I got o
 hour to work on my JavaScript since that is my weak point.
 
 ### R1D2
+Today I worked on my pwp again. I am currently trying to deploy it to the server. 
+
+### R1D3
+Today I did some work on freecodecamp learning how to use python.
