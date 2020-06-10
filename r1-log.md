@@ -15,8 +15,11 @@ Today I worked on my pwp again. I am currently trying to deploy it to the server
 ### R1D3
 Today I did some work on freecodecamp learning how to use python.
 
-### R1D3
+### R1D4
 Today I did some work on my pwp and worked on javascript
 
-### R1D3
+### R1D5
 Today I did just tried to deploy my portfolio to a server
+
+### R1D6
+Today I finally finished my portfolio and deployed it to nathanortiz.tech
