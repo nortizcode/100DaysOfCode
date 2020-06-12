@@ -23,3 +23,6 @@ Today I did just tried to deploy my portfolio to a server
 
 ### R1D6
 Today I finally finished my portfolio and deployed it to nathanortiz.tech
+
+### R1D7
+Today I worked on codeacademy for python
