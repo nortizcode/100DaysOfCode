@@ -28,6 +28,9 @@ Today I finally finished my portfolio and deployed it to nathanortiz.tech
 Today I worked on codeacademy for python
 
 ### R1D8
-
 Today I was a volunteer to give tech interviews to students in my old bootcamp. After that I went to codeacademy 
 and did some work on python. I am also brain storming my next website. Might do a freelance job to build my portfolio
+
+### R1D9
+I took a couple of days off but now I am trying to get back on the grind. Today I started a website for my friend
+for her salon. I also went on freecodeacademy to work on my JavaScript skills.
