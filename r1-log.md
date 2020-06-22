@@ -34,3 +34,6 @@ and did some work on python. I am also brain storming my next website. Might do 
 ### R1D9
 I took a couple of days off but now I am trying to get back on the grind. Today I started a website for my friend
 for her salon. I also went on freecodeacademy to work on my JavaScript skills.
+
+### R1D10
+worked on YOU PICK website today
