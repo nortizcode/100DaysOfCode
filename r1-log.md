@@ -31,3 +31,6 @@ Today I worked on codeacademy for python
 
 Today I was a volunteer to give tech interviews to students in my old bootcamp. After that I went to codeacademy 
 and did some work on python. I am also brain storming my next website. Might do a freelance job to build my portfolio
+
+### R1D9
+Today I worked on codeacademy to learn python
