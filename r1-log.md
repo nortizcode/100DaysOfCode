@@ -34,3 +34,6 @@ and did some work on python. I am also brain storming my next website. Might do 
 
 ### R1D9
 Today I worked on codeacademy to learn python
+
+### R1D10
+Today I decided to keep working on learning python on codeacademy
