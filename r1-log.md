@@ -37,3 +37,6 @@ Today I worked on codeacademy to learn python
 
 ### R1D10
 Today I decided to keep working on learning python on codeacademy
+
+### R1D11
+Today I decided to keep working on learning python on codeacademy
