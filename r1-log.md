@@ -43,4 +43,7 @@ Today I decided to keep working on learning python on codeacademy
 
 ### R1D12
 Today I worked on a Javascript course that I really like. You read a section and then code what you learned. Think
-its going to take my JS skills to the next level.
+its going to take my JS skills to the next level...
+
+### R1D13
+Today I continued to work on my JavaScriot through a book and excersizes from "A smarter way to learn JavaScript".
