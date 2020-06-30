@@ -46,4 +46,8 @@ Today I worked on a Javascript course that I really like. You read a section and
 its going to take my JS skills to the next level...
 
 ### R1D13
-Today I continued to work on my JavaScriot through a book and excersizes from "A smarter way to learn JavaScript".
+Today I continued to work on my JavaScript through a book and excersizes from "A smarter way to learn JavaScript".
+
+### RID14
+I am continuing to work on JavaScript. I feel like these excersizes are really helping me and I could always afford
+to get better at JS
