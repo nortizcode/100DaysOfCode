@@ -51,3 +51,6 @@ Today I continued to work on my JavaScript through a book and excersizes from "A
 ### RID14
 I am continuing to work on JavaScript. I feel like these excersizes are really helping me and I could always afford
 to get better at JS
+
+### RID15
+Continuing to work on my JavaScript book and excersizes. Took a couple days off for my birthday
