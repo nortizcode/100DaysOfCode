@@ -54,3 +54,6 @@ to get better at JS
 
 ### RID15
 Continuing to work on my JavaScript book and excersizes. Took a couple days off for my birthday
+
+### RID16
+Continuing to work on my JavaScript.
