@@ -57,3 +57,6 @@ Continuing to work on my JavaScript book and excersizes. Took a couple days off 
 
 ### RID16
 Continuing to work on my JavaScript.
+
+### RID17
+Today I took a little break from JavaScript and continued my codeacademy lesson on Python
