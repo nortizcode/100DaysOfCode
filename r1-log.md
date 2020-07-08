@@ -60,3 +60,6 @@ Continuing to work on my JavaScript.
 
 ### RID17
 Today I took a little break from JavaScript and continued my codeacademy lesson on Python
+
+### RID18
+Today I continued to work on Python and also working on updating my newmexicorecipes.com website
