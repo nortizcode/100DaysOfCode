@@ -66,3 +66,6 @@ Today I continued to work on Python and also working on updating my newmexicorec
 
 ### RID19
 Today I worked on Python on codeacademy.
+
+### RID20
+Today I worked on javascript through my book and excersizes
