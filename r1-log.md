@@ -69,3 +69,6 @@ Today I worked on Python on codeacademy.
 
 ### RID20
 Today I worked on javascript through my book and excersizes
+
+### RID20
+Day 21 I decided to continue to work on JavaScript. I am making my way through several chapters and have leaned a lot
