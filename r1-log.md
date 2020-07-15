@@ -77,4 +77,4 @@ Day 21 I decided to continue to work on JavaScript. I am making my way through s
 Day 22 I continued to work on my JavaScript. I am getting more confident by the day. Before I started this book and excersizes
 I knew that my knowledge on JavaScript was about a 5 out of 10 and I wasnt comfortable with it and now I would say its
 around an 8. Still have a lot to learn but I have made a lot of progress. Almost ready to start a new project and this 
-time use a lot more JavaScript to add to my portfolio.
+time use a lot more JavaScript to add to my portfolio
