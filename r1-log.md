@@ -81,3 +81,6 @@ time use a lot more JavaScript to add to my portfolio
 
 ### RID23
 Took a couple days off but started up by going back and working on JavaScript today.
+
+### RID24
+Took a break from JavaScript today and worked on python on codeacademy
