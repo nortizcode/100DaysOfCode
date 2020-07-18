@@ -83,4 +83,7 @@ time use a lot more JavaScript to add to my portfolio
 Took a couple days off but started up by going back and working on JavaScript today.
 
 ### RID24
-Took a break from JavaScript today and worked on python on codeacademy
+Took a break from JavaScript today and worked on python on codeacademy.
+
+### RID25
+Today I changed some stuff on my portfolio and worked on JavaScript. I also applied to a entry level web developer job.
