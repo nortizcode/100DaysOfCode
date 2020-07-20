@@ -90,3 +90,7 @@ Today I changed some stuff on my portfolio and worked on JavaScript. I also appl
 
 ### RID26
 Little over a quarter way there. Today I continued working on JS
+
+### RID27
+Today I am doing a wireframe for an upcoming project I am thinking about doing. I also worked on the JavaScript book and
+excersizes
