@@ -87,3 +87,6 @@ Took a break from JavaScript today and worked on python on codeacademy.
 
 ### RID25
 Today I changed some stuff on my portfolio and worked on JavaScript. I also applied to a entry level web developer job.
+
+### RID26
+Little over a quarter way there. Today I continued working on JS
