@@ -96,4 +96,4 @@ Today I am doing a wireframe for an upcoming project I am thinking about doing. 
 excersizes
 
 ### RID28
-Today I continued to work on my JavaScript lessons.
+Today I continued to work on my JavaScript lessons
