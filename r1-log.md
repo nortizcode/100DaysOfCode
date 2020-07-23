@@ -97,3 +97,6 @@ excersizes
 
 ### RID28
 Today I continued to work on my JavaScript lessons
+
+### RID29 
+Today I changed it up and decided to work on python on codeacademy
