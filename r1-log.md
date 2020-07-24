@@ -100,3 +100,8 @@ Today I continued to work on my JavaScript lessons
 
 ### RID29 
 Today I changed it up and decided to work on python on codeacademy
+
+### RID30
+Day 30 of 100 and I am glad I started this and have learned a lot and im excited to keep going. Today I learned more 
+on Python. Its different but I am getting the hang of it. It seems like the more I learn JavaScript the easier it is
+for me to learn other languages
