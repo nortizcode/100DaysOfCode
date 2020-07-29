@@ -107,4 +107,4 @@ on Python. Its different but I am getting the hang of it. It seems like the more
 for me to learn other languages
 
 ### RID31
-Today I continued to work on Python
+Today I continued to work on Python.
