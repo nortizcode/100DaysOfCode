@@ -108,3 +108,6 @@ for me to learn other languages
 
 ### RID31
 Today I continued to work on Python.
+
+### RID32
+Today I went back to working on my JavaScript book and excersizes
