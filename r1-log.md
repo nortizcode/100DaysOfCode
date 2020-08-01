@@ -111,3 +111,6 @@ Today I continued to work on Python.
 
 ### RID32
 Today I went back to working on my JavaScript book and excersizes
+
+### RID33
+Day 33 of 100 i am working on JavaScript lessons
