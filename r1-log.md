@@ -116,4 +116,4 @@ Today I went back to working on my JavaScript book and excersizes
 Day 33 of 100 i am working on JavaScript lessons
 
 ### RID34 
-Today I did a variety of different classes on my code academy account
+Today I did a variety of different classes on my code academy account.
