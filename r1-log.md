@@ -117,3 +117,6 @@ Day 33 of 100 i am working on JavaScript lessons
 
 ### RID34 
 Today I did a variety of different classes on my code academy account.
+
+### RID35
+Today I am working on a CSS class. I am trying to get better at CSS animation and 3D
