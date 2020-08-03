@@ -120,3 +120,6 @@ Today I did a variety of different classes on my code academy account.
 
 ### RID35
 Today I am working on a CSS class. I am trying to get better at CSS animation and 3D
+
+### RID36
+Today I am continuing to work on the CSS class on Codeacademy and looking for some more CSS animation classes to take
