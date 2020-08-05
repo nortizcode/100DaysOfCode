@@ -123,3 +123,7 @@ Today I am working on a CSS class. I am trying to get better at CSS animation an
 
 ### RID36
 Today I am continuing to work on the CSS class on Codeacademy and looking for some more CSS animation classes to take
+
+### RID37
+Today I continued to work on CSS and CSS animation on CodeAcademy. I also worked on my portfolio and resume to apply 
+for a job that I qualify for. Looking for a junior PHP dev
