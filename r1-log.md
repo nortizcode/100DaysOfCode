@@ -127,3 +127,7 @@ Today I am continuing to work on the CSS class on Codeacademy and looking for so
 ### RID37
 Today I continued to work on CSS and CSS animation on CodeAcademy. I also worked on my portfolio and resume to apply 
 for a job that I qualify for. Looking for a junior PHP dev
+
+### RID38
+Today I brushed up on my PHP and worked on some stuff with arrays and loops. I applied for the PHP junior dev job
+so I wanted to be ready in case I was contacted for the job.
