@@ -131,3 +131,6 @@ for a job that I qualify for. Looking for a junior PHP dev
 ### RID38
 Today I brushed up on my PHP and worked on some stuff with arrays and loops. I applied for the PHP junior dev job
 so I wanted to be ready in case I was contacted for the job.
+
+### RID39
+Today I am continuing to work on my Smarter Way To Learn JavaScript with the exersizes to learn more
