@@ -134,3 +134,6 @@ so I wanted to be ready in case I was contacted for the job.
 
 ### RID39
 Today I am continuing to work on my Smarter Way To Learn JavaScript with the exersizes to learn more
+
+###RID40
+Today I am working on JavaScript from my excersizes and book with arrays and loops
