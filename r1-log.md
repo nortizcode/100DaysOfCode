@@ -137,3 +137,6 @@ Today I am continuing to work on my Smarter Way To Learn JavaScript with the exe
 
 ###RID40
 Today I am working on JavaScript from my excersizes and book with arrays and loops
+
+###RID41
+Today I am working on a my Python classes on code academy
