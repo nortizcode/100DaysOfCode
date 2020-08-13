@@ -140,3 +140,7 @@ Today I am working on JavaScript from my excersizes and book with arrays and loo
 
 ###RID41
 Today I am working on a my Python classes on code academy
+
+###RID42
+day 42. Almost halfway there. I am continuing on my Python lessons on code academy. Also did some job hunting and applied
+to one of them today.
