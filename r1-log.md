@@ -144,3 +144,6 @@ Today I am working on a my Python classes on code academy
 ###RID42
 day 42. Almost halfway there. I am continuing on my Python lessons on code academy. Also did some job hunting and applied
 to one of them today.
+
+###RID42
+Today I worked on a couple of different code academy lessons with python and a few javascript lessons
