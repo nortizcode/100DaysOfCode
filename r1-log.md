@@ -151,3 +151,6 @@ Today I worked on a couple of different code academy lessons with python and a f
 ###RID44
 Today I kept hammering through my JavaScript lessons. Realizing there is so much to learn. Also did some research for more
 recipes to add to my nmrecipes website. Needs to be updated
+
+###RID45
+Today i worked on my excersizes and reading in a smarter way to learn JS
