@@ -154,3 +154,6 @@ recipes to add to my nmrecipes website. Needs to be updated
 
 ###RID45
 Today i worked on my excersizes and reading in a smarter way to learn JS
+
+###RID46
+Today I am working on code academy with Python. Learning about function arguments.
