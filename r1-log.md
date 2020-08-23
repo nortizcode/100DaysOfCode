@@ -157,3 +157,6 @@ Today i worked on my excersizes and reading in a smarter way to learn JS
 
 ###RID46
 Today I am working on code academy with Python. Learning about function arguments.
+
+###RID47
+Today I am still working on Python with the function arguments on code academy
