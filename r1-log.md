@@ -160,3 +160,6 @@ Today I am working on code academy with Python. Learning about function argument
 
 ###RID47
 Today I am still working on Python with the function arguments on code academy
+
+###RID48
+Today I finished the Python lessons on code academy and the function arguments
