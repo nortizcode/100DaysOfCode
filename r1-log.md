@@ -162,4 +162,8 @@ Today I am working on code academy with Python. Learning about function argument
 Today I am still working on Python with the function arguments on code academy
 
 ###RID48
-Today I finished the Python lessons on code academy and the function arguments
+Today I finished the Python lessons on code academy and the function arguments.
+
+###RID49
+I've been taking a couple of days off and slacking a bit but today I started back up with some lessons on react
+components on Codeacademy
