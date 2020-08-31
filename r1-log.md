@@ -167,3 +167,7 @@ Today I finished the Python lessons on code academy and the function arguments.
 ###RID49
 I've been taking a couple of days off and slacking a bit but today I started back up with some lessons on react
 components on Codeacademy
+
+###RID50
+Today I continuted working on codeacademy with the react lessons and also gonna start on 30 days of javascript
+projects.
