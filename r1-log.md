@@ -169,5 +169,5 @@ I've been taking a couple of days off and slacking a bit but today I started bac
 components on Codeacademy
 
 ###RID50
-Today I continuted working on codeacademy with the react lessons and also gonna start on 30 days of javascript
+Today I kept working on codeacademy with the react lessons and also gonna start on 30 days of javascript
 projects.
