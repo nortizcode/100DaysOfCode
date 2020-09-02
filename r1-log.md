@@ -171,3 +171,7 @@ components on Codeacademy
 ###RID50
 Today I kept working on codeacademy with the react lessons and also gonna start on 30 days of javascript
 projects.
+
+###RID51 
+Today I am working on codeacademy with react and also trying to figure out how to renew my ssl certificate that 
+expired for one of my websites and learn to do the automatic renewal.
