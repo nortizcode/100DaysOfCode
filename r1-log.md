@@ -175,3 +175,6 @@ projects.
 ###RID51 
 Today I am working on codeacademy with react and also trying to figure out how to renew my ssl certificate that 
 expired for one of my websites and learn to do the automatic renewal.
+
+###RID52
+I continued to work on code academy with react components and functions
