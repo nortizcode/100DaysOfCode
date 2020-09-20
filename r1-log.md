@@ -178,3 +178,6 @@ expired for one of my websites and learn to do the automatic renewal.
 
 ###RID52
 I continued to work on code academy with react components and functions
+
+###RID53
+Today I am getting back on track and reviewing some Javascript and CSS with Codeacademy
