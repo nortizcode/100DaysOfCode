@@ -181,3 +181,6 @@ I continued to work on code academy with react components and functions
 
 ###RID53
 Today I am getting back on track and reviewing some Javascript and CSS with Codeacademy
+
+###RID54
+Today I did some more review on codeacademy for an interview I have tomorrow
